@@ -4,6 +4,7 @@
  * is "block", and it specifies that a block should be
  * generated for an **exported** function.
  */
+
 enum Ledv {
     pois_päältä,
     päälle
